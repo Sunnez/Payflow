@@ -1,5 +1,7 @@
 # PayFlow
 
+[![CI](https://github.com/Sunnez/Payflow/actions/workflows/ci.yml/badge.svg)](https://github.com/Sunnez/Payflow/actions/workflows/ci.yml)
+
 A backend-focused FinTech payment processing platform built with Python, FastAPI and PostgreSQL.
 
 PayFlow demonstrates core payment-system concepts including idempotent payment creation, payment lifecycle management, double-entry accounting, refunds, risk assessment, reconciliation and reliable webhook delivery.
